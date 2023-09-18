@@ -9,3 +9,7 @@ h1 {
 .parrafoPrincipal {
     font-size: 1.1rem;
 }
+
+h2 {
+    text-decoration: solid 2px blue;
+}
